@@ -1,2 +1,2 @@
 #!/bin/bash
-head --lines=3 icata | tail --lines=1
+head -n 10 /etc/passwd
